@@ -9,3 +9,10 @@ Ensuite, pour ce qui concerne la deuxieme journé, on as aborder le git et le gi
 
 -------------------10:11:2021------------------------
 
+Aujourd'hui était spécial, D'abord on as commencer par un jeu de quiz contient 61 questions pour tester nos informations sur Git, Github, Language C et Algoritme, Cela a pris une heure ou j'ai reponser sur 37 bonne reponses,  
+Aussi dans ce jeu , j'ai compris le programme et ce que on vas apprendre dans cette periode de ssas. 
+Ensuite on as commecer d'etuder le luangage C ,on as aborder l'histoire et l'utilisations de ce dernier,  plus les types de données et les opérateur . on vas attaquer les challenges .
+
+
+
+-------------------11:11:2021------------------------
