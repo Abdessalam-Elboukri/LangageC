@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main(){
+	
+	float longueur , largeur , result;
+	
+	printf("Entrer la longueur de rectangle : \n");
+	scanf("%f" , &longueur);
+	
+	printf("Entrer la largeur de rectangle : \n");
+	scanf("%f" , &largeur);
+	
+	result = 2 * (longueur + largeur);
+	
+	printf("La circonference du rectangle est : %0.3f" , result);
+	
+return 0;
+}
