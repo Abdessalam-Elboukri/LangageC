@@ -16,3 +16,17 @@ Ensuite on as commecer d'etuder le luangage C ,on as aborder l'histoire et l'uti
 
 
 -------------------11:11:2021------------------------
+
+Aujourd'hui on a continué les challenges, c'était super surtout quand on travaillait en équipe. je comprends les avantages de travailler en group. 
+nous avons échangé des informations et résolé 12 défis sur 13. certains de ces défis étaient difficiles mais nous les avons résolus lorsque nous avons utilisé le codage en direct via Discord. 
+Parmi les choses que j'ai appris aujourd'hui.
+    comment écrire des programmes sur le langage c comme ;
+	-un programme qui écrit vos informations personnelles.
+	-un programme qui convertit Fahrenheit en c.
+	-un programme qui convertit les miles en km ou le mètre en mile.
+	-un programme qui calcule une distance entre deux points.
+	-un programme qui calcule la circonférence de cercle ettriangle.
+	-un programme qui fait un calcul de nombreuses opérations.
+
+
+-------------------12:11:2021------------------------
