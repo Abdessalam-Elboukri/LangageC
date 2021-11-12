@@ -20,7 +20,7 @@ Ensuite on as commecer d'etuder le luangage C ,on as aborder l'histoire et l'uti
 Aujourd'hui on a continué les challenges, c'était super surtout quand on travaillait en équipe. je comprends les avantages de travailler en group. 
 nous avons échangé des informations et résolé 12 défis sur 13. certains de ces défis étaient difficiles mais nous les avons résolus lorsque nous avons utilisé le codage en direct via Discord. 
 Parmi les choses que j'ai appris aujourd'hui.
-    comment écrire des programmes sur le langage c comme ;
+    comment écrire des programmes dans le langage c comme ;
 	-un programme qui écrit vos informations personnelles.
 	-un programme qui convertit Fahrenheit en c.
 	-un programme qui convertit les miles en km ou le mètre en mile.
@@ -30,3 +30,10 @@ Parmi les choses que j'ai appris aujourd'hui.
 
 
 -------------------12:11:2021------------------------
+
+Aujourd'hui. L'enseignant nous lance des défis,
+c'était agréable, nous avons continué à travailler en équipe,
+
+ces défis concernaient les conditions du langage c, j'ai compris comment créer des programmes qui affichent la sortie en fonction des utilisateurs, et pour cela, nous avons utilisé l'instruction "switch case" et "if else".
+
+a la fin de journeé on as realizer un live coding pour correct ces Challenges.
