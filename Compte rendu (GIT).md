@@ -1,21 +1,21 @@
 -------------------  09:11:2021 ---------------------
 
-what is Git ?
+#what is Git ?
 =============
 git is a distributed version control system that records changes of your files or folders that will give you an advantage to create a history of changes that you made on the project while ou working on it
 
-Difference between git and github?
+#Difference between git and github?
 =================================
 git is a system that create a history of changes of that file with new version 
 while github is a server that you can host your projects and save it there on the repository as public which everyone can access or as private .
 
-Alternatives of git?
+#Alternatives of git?
 ===================
  subversion
  helix core
  perforce
 
-Commands Line of Git?
+#Commands Line of Git?
 ====================
 To Config the git we use
 

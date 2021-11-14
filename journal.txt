@@ -37,3 +37,16 @@ c'était agréable, nous avons continué à travailler en équipe,
 ces défis concernaient les conditions du langage c, j'ai compris comment créer des programmes qui affichent la sortie en fonction des utilisateurs, et pour cela, nous avons utilisé l'instruction "switch case" et "if else".
 
 a la fin de journeé on as realizer un live coding pour correct ces Challenges.
+
+---------------13/14(week-end):11:2021----------------
+
+Ce week-end a été génial,j'ai fait une petite pause.Puis j’ai commencé à réviser toutes les activités de cette semaine, aussi j’ai continué les défis de conditions, une conclusion sur le langage C, Ou j'ai avancé dans les conditions et les boucles.
+
+ca fait une semaine merveilleuse, j’ai rencontré d’autres candidats qui ont les mêmes intérêts que moi, la façon dont nous étudions nous permet le changement du savoir-faire
+
+Et j’aime la façon dont le formateur nous fait travailler en équipe,
+on' etait adapter au programme et créer un bon environnement de travail.
+
+Pour cela je suis tellement excité de commencer une nouvelle semaine pour prendre un maximum d’informations sur la programmation.
+
+-------------------15:11:2021------------------------
