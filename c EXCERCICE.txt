@@ -1,0 +1,75 @@
+
+1. Write a program in C to display the first 10 natural numbers.
+
+#include <stdio.h>
+int main(void){
+    // Here your code !
+    for (int i = 0 ; i <= 10 ; i++)
+        {
+            printf("%d",i);
+        }
+    
+}
+
+####################################################"
+
+2. Write a C program to find the sum of first 10 natural numbers.
+
+#include <stdio.h>
+int main(void){
+    // Here your code !
+    int sum = 0;
+    for (int i = 0 ; i <= 10 ; i++)
+        {
+            sum = sum + i ;
+            printf("%d \n",i);
+        }
+        
+        printf("sum is :%d", sum);
+    
+}
+##################################################"
+
+3. Write a program in C to display n terms of natural number and their sum.
+
+#include <stdio.h>
+int main(void){
+    // Here your code !
+    int sum = 0, n ;
+    
+    printf("enter a value :\n");
+    scanf("%d" , &n);
+    for (int i = 0 ; i <= n ; i++)
+        {
+            sum = sum + i ;
+            printf("%d \n",i);
+        }
+        
+        printf("sum is :%d", sum);
+    
+}
+##################################################"
+
+4. Write a program in C to display the cube of the number upto given an integer.
+
+#include <stdio.h>
+
+int main(void){
+    // Here your code !
+    int  n, cube ;
+    
+    printf("enter a value :\n");
+    scanf("%d" , &n);
+    for (int i = 1 ; i <= n ; i++)
+        {
+            cube = i * i * i  ;
+            printf("Number is : %d and cube of the %d is :%d \n",i , i , cube);
+        }
+         
+}
+
+##################################################"
+
+##################################################"
+
+##################################################"
