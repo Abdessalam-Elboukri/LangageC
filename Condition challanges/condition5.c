@@ -22,7 +22,7 @@ int main (){
 		printf(" le solution d'equation est : %.2f" , -b/2*a);
 	}
 	if (delta > 0){
-		printf("l 'equation accept deux solutions %.2f et %.2f", (-b + sqrt(delta)) /(2*a) , (-b - sqrt(delta)) /(2*a) );
+		printf("l 'equation acceptE deux solutions %.2f et %.2f", (-b + sqrt(delta)) /(2*a) , (-b - sqrt(delta)) /(2*a) );
 	}
 	
 	if(delta < 0){
