@@ -38,6 +38,7 @@ ces défis concernaient les conditions du langage c, j'ai compris comment créer
 
 a la fin de journeé on as realizer un live coding pour correct ces Challenges.
 
+
 ---------------13/14(week-end):11:2021----------------
 
 Ce week-end a été génial,j'ai fait une petite pause.Puis j’ai commencé à réviser toutes les activités de cette semaine, aussi j’ai continué les défis de conditions, une conclusion sur le langage C, Ou j'ai avancé dans les conditions et les boucles.
@@ -49,7 +50,41 @@ on' etait adapter au programme et créer un bon environnement de travail.
 
 Pour cela je suis tellement excité de commencer une nouvelle semaine pour prendre un maximum d’informations sur la programmation.
 
+
 -------------------15:11:2021------------------------
 
 Aujourd'hui c'était le premier jour de la nouvelle semaine, j'ai continué les conditions avec une révision avec l'équipe, le matin c'était une réunion avec les staff et mosieur Frédéric Bardeau Co-fondateur et Président de Simplon SAS ,j'ai compris beaucoup de chose pour faire de l'inclusion numerique une force pour l'avenir .et apres pendant l'apres midi on as realiser un quiz ,
 et je comprends certains échecs donc j'ai dû réviser les conditions et pratiquer plus de défis.
+
+
+
+-------------------16:11:2021------------------------
+
+Pendant ce jour on as pratiquer  en live coding des challenges du variables et les conditions,
+À partir de ces défis, j'ai compris comment configurer les conditions et comment optimiser votre programme avec moins de codage de ligne, cela m'a été utile.
+
+l'après-midi, l'autre équipe doit présenter des sujets algorithmiques ;
+histoire, l'importance et pourquoi nous devrions l'utiliser, comment le configurer avant de coder, et les avantages de celui-ci.
+
+par exemple, ils ont donné un exemple de lampe qui ne fonctionne pas,
+nous devrions ignorer les étapes pour trouver pourquoi ce n'est pas le cas,
+ces étapes sont des algorithmes mais ça change de l'un à l'autre,
+mais la situation finale est que la lampe fonctionnera.
+
+il en est de même en programmation, pour créer un programme qui résout un problème, il y a beaucoup de solutions mais il faut calculer "Big O Notation", c'est la complexité en temps et en espace d'un algorithme, qui a pris peu de temps et peu complexité spatiale,
+est considéré comme le meilleur algorithme de tous. Un développeur catégorise également comment trouver le meilleur cas, le cas moyen et le pire des cas de l'algorithme.
+et l'exemple sur lequel nous avons travaillé dans la présentation est de donner une plage de 0 à 50 et l'utilisateur choisira un nombre à partir de là et nous devrions le trouver avec moins d'essai.
+pour cela, nous avons utilisé deux types de recherche le premier s'appelle "leaner" donc je vais commencer à partir de 0,1,2...et comme ça, jusqu'à trouver ce nombre mais il y a beaucoup d'essais.
+l'autre choix est dit « binaire » ; après que l'utilisateur ait pensé un numéro, je choisirai un numéro du milieu et je verrai si le numéro que je dois trouver est supérieur ou inférieur pour couper l'autre partie et comme ça j'ai enlevé 50% des possibilités.
+cette fonction binaire a "big o notation" plus petite que l'autre,
+donc c'est valable.
+
+mais si les nombres étaient aléatoirement à l'intérieur de la plage.
+le binaire ne fonctionnera pas et mettra beaucoup de temps à fonctionner,
+mais nous pouvons ajouter une fonction qui ordonnera ces nombres et calculera "big o notation" et verra. les nombres sont les données de ce programme
+il faut donc savoir comment traiter ces données pour savoir quel algorithme fonctionnera et ce qu'on appelle une structure de données.
+
+comprendre les algorithmes vous aidera à résoudre un problème ou à trouver la meilleure méthode de codage pour créer votre programme et gagner beaucoup de temps.
+
+
+-------------------17:11:2021------------------------
