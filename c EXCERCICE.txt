@@ -8,7 +8,7 @@ int main(void){
         {
             printf("%d",i);
         }
-    
+    return 0;
 }
 
 ####################################################"
@@ -26,7 +26,7 @@ int main(void){
         }
         
         printf("sum is :%d", sum);
-    
+    return 0;
 }
 ##################################################"
 
@@ -46,7 +46,8 @@ int main(void){
         }
         
         printf("sum is :%d", sum);
-    
+
+    return 0;
 }
 ##################################################"
 
@@ -65,8 +66,104 @@ int main(void){
             cube = i * i * i  ;
             printf("Number is : %d and cube of the %d is :%d \n",i , i , cube);
         }
-         
+
+     return 0;    
 }
+
+##################################################"
+5. Write a program in C to display the multipliaction table vertically from 1 to n.
+
+
+#include <stdio.h>
+
+int main()
+{
+    int Nbr , n ;
+    
+    printf("Enter the number of multiplication :");
+    scanf("%d" , &Nbr);
+    
+    printf("multiply The number to : ");
+    scanf("%d" , &n);
+    
+        for(int i = 1 ; i <= n ; i++ )
+        {
+            printf("%d x %d = %d \n",Nbr, i , Nbr*i);
+        }
+
+    return 0;
+}
+##################################################"
+
+6. Write a program in C to display the pattern like right angle triangle using an asterisk. 
+
+The pattern like :
+
+*
+**
+***
+****
+
+
+
+#include <stdio.h>
+
+int main()
+{
+    int  star, n;
+    
+    printf("enter a number of pyramid's lines :");
+    scanf("%d" , &n);
+    
+    for(int i = 1 ; i <= n ; i++)
+    {
+        for( star = 1 ;star <= (i*2)-1 ; star++)
+        {
+            printf("*");
+        }
+        
+    printf("\n");    
+    }
+    
+ return 0;   
+}
+    
+##################################################"
+
+7. Write a program in C to display the n terms of odd natural number and their sum . 
+
+
+#include <stdio.h>
+
+int main()
+{
+    int  Nbr;
+    
+    printf("enter a number to display the odds :");
+    scanf("%d" , &Nbr);
+    
+    for(int i = 1 ; i <= Nbr ; i++)
+       {
+           if(i % 2 == 1 )
+           {
+               printf("%d \n" , i);
+           }
+       }
+     
+    
+ return 0;   
+}
+    
+
+##################################################"
+
+##################################################"
+
+##################################################"
+
+##################################################"
+
+##################################################"
 
 ##################################################"
 

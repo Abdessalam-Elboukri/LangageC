@@ -91,7 +91,7 @@ comprendre les algorithmes vous aidera à résoudre un problème ou à trouver l
 
 Pendant cet journeé , on as contunier les challanges du boucles et les functions,
 
-tout d'abord nous avons un défi complexe dont nous avons besoin pour créer un programme, il sortira une pyramide, mais le formateur lui a bien expliqué ce défi en utilisant un algorithme,
+tout d'abord nous avons un défi complexe dont nous avons besoin pour créer un programme, il sortira une pyramide, mais le formateur nous a bien expliqué ce défi en utilisant un algorithme,
  l'utilisateur donnera un numéro, c'est le nombre total de numéros de ligne et la pyramide commencera par le haut avec une étoile et la deuxième ligne avec trois étoiles, donc chaque ligne qui génère deux étoiles supplémentaires,
 
 tandis que l'espace va diminuer
