@@ -60,7 +60,7 @@ et je comprends certains échecs donc j'ai dû réviser les conditions et pratiq
 
 -------------------16:11:2021------------------------
 
-Pendant ce jour on as pratiquer  en live coding des challenges du variables et les conditions,
+Pendant cet journeé, on as pratiquer un live coding du variables et les conditions,
 À partir de ces défis, j'ai compris comment configurer les conditions et comment optimiser votre programme avec moins de codage de ligne, cela m'a été utile.
 
 l'après-midi, l'autre équipe doit présenter des sujets algorithmiques ;
@@ -88,3 +88,25 @@ comprendre les algorithmes vous aidera à résoudre un problème ou à trouver l
 
 
 -------------------17:11:2021------------------------
+
+Pendant cet journeé , on as contunier les challanges du boucles et les functions,
+
+tout d'abord nous avons un défi complexe dont nous avons besoin pour créer un programme, il sortira une pyramide, mais le formateur lui a bien expliqué ce défi en utilisant un algorithme,
+ l'utilisateur donnera un numéro, c'est le nombre total de numéros de ligne et la pyramide commencera par le haut avec une étoile et la deuxième ligne avec trois étoiles, donc chaque ligne qui génère deux étoiles supplémentaires,
+
+tandis que l'espace va diminuer
+    par exemple pour 3 lignes{
+                            ligne = 1( étoiles = 1 et espace = 2)
+                            ligne = 2( étoiles = 3 et espace = 1)
+                            ligne = 3( étoiles = 5 et espace = 0)
+                                             }
+Et puis nous avons trouvé la relation entre le nombre total de la ligne et de l'espace et l'incrémentation,
+
+donc créera une " boucle for " qui générera une ligne et à l'intérieur de cette boucle
+deux autres boucles, la première augmentera les étoiles de 2 et la 2ème boucle diminuera d'un espace et au final ; une "ligne de rupture" pour commencer une nouvelle ligne.
+
+après beaucoup d'efforts et de recherches, nous avons trouvé la solution.
+
+aussi, nous avons travaillé sur les autres défis mais ils étaient normaux comme un programme définissant un nombre si c'est un nombre premier ou non, et un programme qui sort un inverse du nombre qui est donné par l'utilisateur.
+
+donc aujourd'hui je comprends les boucles, aussi le formateur a expliqué l'importance de l'algorithme, et je vois l'avantage que nous donne après l'avoir écrit dans le défi de la pyramide, et comment il rend clair le problème d'écrire des fonctions optimisées.
