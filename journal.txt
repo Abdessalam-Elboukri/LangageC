@@ -110,3 +110,24 @@ après beaucoup d'efforts et de recherches, nous avons trouvé la solution.
 aussi, nous avons travaillé sur les autres défis mais ils étaient normaux comme un programme définissant un nombre si c'est un nombre premier ou non, et un programme qui sort un inverse du nombre qui est donné par l'utilisateur.
 
 donc aujourd'hui je comprends les boucles, aussi le formateur a expliqué l'importance de l'algorithme, et je vois l'avantage que nous donne après l'avoir écrit dans le défi de la pyramide, et comment il rend clair le problème d'écrire des fonctions optimisées.
+
+
+-------------------19:11:2021------------------------
+
+Aujourd'hui, nous avons continué les fonctions et des boucles, certains de ces défis sont de créer un programme qui utilise un tri rapide et des algorithmes de merge, c'était un peu complexe mais après avoir travaillé en équipe ; On pourrait écrire un algorithme pour résoudre le problème du programme.
+
+pour cela, j'ai compris comment fonctionne l'algorithme de tri rapide. comment il a choisi un nombre dans la liste et le comparer avec autre chose que de répéter cette méthode pour trier toute la liste.
+
+après cela, j'ai revu les boucles de la différence entre while , do while et for loops .
+
+
+aussi comment vous pouvez créer une fonction sur d'autres fichiers (test.c) et l'inclure dans header du main , que vous pouvez simplement l'appeler , et rendre votre main pas complexe .
+
+après avoir reçu le projet que nous allons travailler dessus ce week-end
+
+Je suis tellement excité de commencer ce projet et de travailler dessus pour le présenter.
+je ferai de mon mieux. 
+
+
+
+-------------------20:11:2021------------------------
