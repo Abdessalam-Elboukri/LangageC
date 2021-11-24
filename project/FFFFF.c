@@ -15,19 +15,19 @@ client all_clients[] ={
 		{"jalil","sabiry","EE1101",10040},
 		{"chaimae","ben moussa","EE1102",102500},
 		{"salwa","nadifi","EE1103",10500},
-		{"salma","zwina","EE1104",12500},
+		{"salma","rahimi","EE1104",12500},
 		{"nosaiba","mqaoui","EE1105",10400},
 		{"ahmad","essary","EE1100",105400},
 		{"jalil","sabiry","EE1101",107600},
 		{"chaimae","ben moussa","EE1102",10000},
 		{"salwa","nadifi","EE1103",10000},
-		{"salma","zwina","EE1104",10530},
+		{"salma","rahimi","EE1104",10530},
 		{"nosaiba","mqaoui","EE1105",10000},
 		{"ahmad","essary","EE1100",107800},
 		{"jalil","sabiry","EE1101",10000},
 		{"chaimae","ben moussa","EE1102",100550},
 		{"salwa","nadifi","EE1103",10350},
-		{"salma","zwina","EE1104",100670},
+		{"salma","rahimi","EE1104",100670},
 		{"nosaiba","mqaoui","EE1105",127000},
 };
 // ============================================================================================
@@ -56,7 +56,7 @@ void Creation_Scomptes(int length){
 					printf("Votre Cin :");
 					scanf("%s" , all_clients[length].cin);
 					printf("\n\n");
-				    printf("le compte a été créé \n");
+				    printf("le compte a Ã©tÃ© crÃ©Ã© \n");
 				    
 				    ++length;
 }
@@ -199,7 +199,7 @@ int main()
 				 		goto checkpoint2;
 				 	}
 					
-				    printf("\nVos comptes ont été créés . \n");
+				    printf("\nVos comptes ont Ã©tÃ© crÃ©Ã©s . \n");
 				    
 				    
 				    
