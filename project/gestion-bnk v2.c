@@ -4,7 +4,7 @@
 typedef struct info_client {
     char nom[20];
     char prenom[20];
-    char cin[10];
+    char cin[8];
     float montant;
 
 } client;
@@ -54,18 +54,18 @@ void Cin_Comparaison_Operations(char entered_Cin[8],int length){
 		char choix_1;
         int i;
         int t = 1;
-        
          for(i = 0; i<length ;i++){
              if(strcmp(all_clients[i].cin,entered_Cin) == 0){
-                 
+                 unknown_error1:
                  printf("==============================================\n");
                  printf("%s || %s || %s || %0.2f \n",all_clients[i].nom,all_clients[i].prenom,
 				 all_clients[i].cin,all_clients[i].montant);
 				 printf("==============================================\n\n");
 				 printf("Est-ce que le compte que vous choisissez (y/n) : ");
 				 scanf("%s",&choix_1);
-				 if(choix_1 == 'y'){
+				 if(choix_1 == 'y' || choix_1 == 'Y'){
 				 int n;
+				 Unknown_error :
 				 printf("============================================ \n");				 
 				 printf("1 :> Depot \n");
 				 printf("2 :> Retrait \n");
@@ -74,15 +74,25 @@ void Cin_Comparaison_Operations(char entered_Cin[8],int length){
 				 scanf("%d",&n);
 				 if(n == 1){
 					float depot;
+					depot_check :
 		            printf("Entrer le montant que voulez-vous Deposer :");
 		            scanf("%f",&depot);
+		            if(depot<0){
+		            	printf("Entrer une valide Montant\n");
+		            	goto depot_check;
+					}else if(depot <100){
+						printf("Entrer une Montant Superieur a 100DH\n");
+						goto depot_check;
+					}
+					else{
+					
 		            all_clients[i].montant = all_clients[i].montant + depot;
 		            printf("%s || %s || %s || %0.2f \n\n",all_clients[i].nom,all_clients[i].prenom,
 				    all_clients[i].cin,all_clients[i].montant);
 				        
 				    break;
 					}	
-					
+				}
 					else if(n==2){
 						float retrait;
 						insufisant_checkpoint:
@@ -95,17 +105,29 @@ void Cin_Comparaison_Operations(char entered_Cin[8],int length){
 					 	
 					 	goto insufisant_checkpoint;
 					 }
+					 else if(n!=1 || n!=2){
+						printf("Unknown Error , try again !\n");
+						goto Unknown_error ;
+					}
 					 else{
 					 	printf("==========================================\n") ;
 		                all_clients[i].montant = all_clients[i].montant - retrait;
-		                printf("==============Votre Noveau Sold============== ");
+		                printf("==============Votre Noveau Sold============== \n");
 		                 printf("%s || %s || %s || %0.2f \n",all_clients[i].nom,all_clients[i].prenom,
 				        all_clients[i].cin,all_clients[i].montant);
 				        printf("==========================================\n\n") ;				        
 				        break;
 					}
+					
 				}
 			}	 		
+				else if(choix_1 =='n'||choix_1 =='N'){
+					printf("Your next account\n");
+				}
+				else {
+					printf("Unknown Error , try again\n");
+					goto unknown_error1;
+				}
 		} 
     }      
 }	
@@ -139,7 +161,7 @@ int main()
 	//system("COLOR 1E");
 
 	int length = (sizeof(all_clients))/(sizeof(all_clients[0]));
-	int choix , c , i ;// le choix, numero de utilisateur, nombre de comptes pour creer
+	int choix , c , i , j ;// le choix, numero de utilisateur, nombre de comptes pour creer
 	char RtrMenu;
 	char entered_Cin[8];
 	
@@ -213,15 +235,22 @@ int main()
 						scanf("%s" , all_clients[length].nom);
 						printf("Votre Prenom :");
 						scanf("%s" , all_clients[length].prenom);
+						cin_verefication :
 						printf("Votre Cin :");
 						scanf("%s" , all_clients[length].cin);
+						for(j=0 ; j<length ; j++){
+						
+						if(strcmp(all_clients[j].cin,all_clients[length].cin) == 0){
+							printf("this CIN already Used , Try Another ! \n");
+							goto cin_verefication;
+						}
+						}
 						printf("========================================\n");
 						printf("\n\n");
 						++length ;
 						if(i == c){
 						    break;
 						}
-				    ++length;
 				}
 					}
 				 	else{
