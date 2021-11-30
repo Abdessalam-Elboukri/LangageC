@@ -130,4 +130,18 @@ je ferai de mon mieux.
 
 
 
--------------------20:11:2021------------------------
+-------------------30:11:2021------------------------
+
+aujourd'hui, c'est le premier jour après la période de sas, nous avons créé une nouvelle équipe pour travailler pour ce printemps.
+ donc d'abord nous nous sommes mis d'accord pour les règles à suivre, ces règles posées par les candidats,
+
+après cela, nous avons du travail en équipe à explorer,
+- c'est quoi internet ?
+-quelle est la différence entre internet et web ?
+-différence entre site web, serveur, moteur de recherche...?
+-qu'est-ce qu'un paquet ?
+-Qu'est-ce que les clients, adresse IP et DNS,
+
+pour que je comprenne toutes ces questions vous pourrez parfaitement vous lancer pour rejoindre ou débuter le développement web .
+
+pour moi, il est obligatoire de comprendre ces bases d'Internet pour prendre un bon départ.
