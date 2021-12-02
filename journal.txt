@@ -145,3 +145,19 @@ après cela, nous avons du travail en équipe à explorer,
 pour que je comprenne toutes ces questions vous pourrez parfaitement vous lancer pour rejoindre ou débuter le développement web .
 
 pour moi, il est obligatoire de comprendre ces bases d'Internet pour prendre un bon départ.
+
+-------------------1/2:12:2021------------------------
+
+au cours de ces deux jours, nous avons fait beaucoup de choses, le premier jour, nous avons fait une présentation sur la différence entre le Web et Internet,
+
+et j'ai compris qu'Internet est le réseau des réseaux et que le réseau permet l'échange de données entre deux ou plusieurs ordinateurs.
+
+sinon, le Web est un moyen d'accéder à l'information via Internet.
+
+-et comment le web fonctionne quand on clique sur un lien ,
+lorsque vous tapez une URL dans le navigateur, il recherche l'adresse IP de cette URL :
+il recherche d'abord dans le cache du navigateur s'il n'est pas trouvé
+puis il recherche sur le cache local,
+s'il n'est pas trouvé avec ces deux manières, il recherche sur le serveur DNS pour trouver son adresse IP
+
+lorsqu'il est trouvé, le serveur envoie un paquet à la machine en utilisant la communication TCP (protocole de contrôle de transmission).
