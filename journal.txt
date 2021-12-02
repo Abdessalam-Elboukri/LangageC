@@ -152,7 +152,7 @@ au cours de ces deux jours, nous avons fait beaucoup de choses, le premier jour,
 
 et j'ai compris qu'Internet est le réseau des réseaux et que le réseau permet l'échange de données entre deux ou plusieurs ordinateurs.
 
-sinon, le Web est un moyen d'accéder à l'information via Internet.
+D'autre part, le Web est un moyen d'accéder à l'information via Internet.
 
 -et comment le web fonctionne quand on clique sur un lien ,
 lorsque vous tapez une URL dans le navigateur, il recherche l'adresse IP de cette URL :
@@ -161,3 +161,25 @@ puis il recherche sur le cache local,
 s'il n'est pas trouvé avec ces deux manières, il recherche sur le serveur DNS pour trouver son adresse IP
 
 lorsqu'il est trouvé, le serveur envoie un paquet à la machine en utilisant la communication TCP (protocole de contrôle de transmission).
+puis le navigateur se connecte avec succès à l'url en utilisant l'un des protocoles http ou https ,
+puis envoyez une requête au serveur pour obtenir des informations sur ce site Web,
+
+lorsque le serveur répond, le navigateur collecte ces informations et les interprète et la page Web complète cette fiche dans le navigateur,
+ pour moi, cela m'aide beaucoup, c'est clair et je comprends beaucoup de choses qui se passent en arrière-plan, donc c'est un bon début pour le début d'un développeur.
+
+l'après-midi, nous avons travaillé sur le mode escouade pour créer un plan sur la façon dont nous pouvons apprendre certains langages de programmation comme html, css
+ javascript, php, mysql et prendre les compétences de cette période.
+
+
+
+pour le deuxième jour, nous avons commencé à prendre une documentation sur html css dom et comment le navigateur a interprété le document de html
+
+après cela, nous avons commencé sur les deux briefs, que vous avez créé un magasin de jeux et le concevez avec le fichier css, 
+j'ai relevé ces deux défis et j'ai commencé à rechercher des responsabilités avec flexbox et grid.
+
+après cela, nous avons fait un quiz sur ce que nous avons appris au cours de ces deux jours sur iternet et le web et aussi sur html, css .
+
+ce quiz a été créé en équipe , donc les points du quiz étaient pour l' équipe et nous avons pris la 3ème place ;
+Je suis heureux pour ce disque et nous sommes prêts pour plus.
+
+aussi avec ces activités du formateur je sens que j'apprends plus et j'apprécie ce que j'apprends.
