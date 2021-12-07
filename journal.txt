@@ -183,3 +183,27 @@ ce quiz a été créé en équipe , donc les points du quiz étaient pour l' éq
 Je suis heureux pour ce disque et nous sommes prêts pour plus.
 
 aussi avec ces activités du formateur je sens que j'apprends plus et j'apprécie ce que j'apprends.
+
+-------------------6/7:12:2021------------------------
+
+Pendant Ces deux journée , j'ai vus pas male de choses tout d'abord  j'ai aborder le deuxiéme brief qui consiste a la création d'un boutique des jeux online.
+plus précisament j'ai travailler sur le stylling css du webpage, ou j'ai travailler avec les pseudos comme (hover,before,after...)
+et quelques animations en utilisant (transforme,translate,transition,scale...)
+Sans oublier la documentation personelle que j'ai commencé sur l'accéccibilité. ou j'ai decouvrir que chaque website/webpage doit supporter 
+toutes les browsers comme : Ghrome, Mozila,Opera, Edge.
+En plus de ça , durant cette journée j'ai appris qu'oi doit utiliser quelques propriéte dans notre fichier CSS, comme --webkit,--MS,--O.
+pendant la fin due la journée . Monsieur Youssef nous as donnée des veilles a preparer y compris moi sur l'optimisation de la vitese du telechargement des sitesweb.
+ 
+La deuxiéme journée , on as rencontrer la responsable d'insertion proffessionelle . qui nous as parler des étapes à suivre , pour develloper notre carriére 
+et d'inserer le monde du travaille le plus vite possible. durant cette rencontre , on as réaliser pas male d'activités qui ont relation avec notre cursus.
+Chacun d'entre nous a prenster l'ecole selon sa point de vue. par la suite on as parler des villes marocaines qui contient le grandes nombres des opportunités au niveau 
+des offres d'emplois
+ou j'ai decouvrir les principaux villes comme Casablanca/ Rabat/ Tanger/ Kenitra.
+Pendant l'apres-midi j'ai presenter  mon travaille devant mes camarades sur le sujet l'optimisation de la vitese du telechargement des sitesweb.
+Durant cette journée . j'ai appris beaucoup d'informations sur le role du mobile first et son importance .
+Et comment optimiser les pages/sites webs pour se classifier dans les premiers pages du recherche ."SEO"
+Et parmi ces astuces , l'utilistion des keywords dans le champs <meta>. plus la vitese du loading. sans oublier les backlinks
+Finallement ces deux journée mon donnée une vision générale qui vas me permet de creer mon propre website ou bien mon propre projet afin d'aller le plus loin 
+possible dans ma carriére . et de genérer plus de client. 
+   
+ 
