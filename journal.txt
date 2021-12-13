@@ -189,7 +189,7 @@ aussi avec ces activités du formateur je sens que j'apprends plus et j'appréci
 Pendant Ces deux journée , j'ai vus pas male de choses tout d'abord  j'ai aborder le deuxiéme brief qui consiste a la création d'un boutique des jeux online.
 plus précisament j'ai travailler sur le stylling css du webpage, ou j'ai travailler avec les pseudos comme (hover,before,after...)
 et quelques animations en utilisant (transforme,translate,transition,scale...)
-Sans oublier la documentation personelle que j'ai commencé sur l'accéccibilité. ou j'ai decouvrir que chaque website/webpage doit supporter 
+Sans oublier la documentation personelle que j'ai commencé sur compatibiliter. ou j'ai decouvrir que chaque website/webpage doit supporter 
 toutes les browsers comme : Ghrome, Mozila,Opera, Edge.
 En plus de ça , durant cette journée j'ai appris qu'oi doit utiliser quelques propriéte dans notre fichier CSS, comme --webkit,--MS,--O.
 pendant la fin due la journée . Monsieur Youssef nous as donnée des veilles a preparer y compris moi sur l'optimisation de la vitese du telechargement des sitesweb.
@@ -206,4 +206,22 @@ Et parmi ces astuces , l'utilistion des keywords dans le champs <meta>. plus la 
 Finallement ces deux journée mon donnée une vision générale qui vas me permet de creer mon propre website ou bien mon propre projet afin d'aller le plus loin 
 possible dans ma carriére . et de genérer plus de client. 
    
- 
+ -------------------8/9:12:2021------------------------
+
+
+Durant ces deux jours, nous avons commencé le nouveau briefing sur une page Web de formulaire, un formulaire qui aide l'utilisateur à trouver une propriété à vendre.
+le formulaire doit inclure la plage de recherche, le nombre de chambres, le type de propriétés et le prix ainsi qu'une option que vous pouvez activer pour afficher les propriétés vendues.
+
+le premier jour, nous devons faire un design de la page Web à l'aide d'un outil comme figma ou adobe xd. pour moi, j'ai travaillé avec adobe xd et j'ai compris comment l'utiliser 
+en regardant des vidéos, je créais des templetes juste pour améliorer mes compétences.
+à la fin de la journée, je réalise environ 10% de la maquette de mon site Web, et j'ai compris que la création d'un modèle de vos pages Web est une chose importante qui vous 
+aidera lors du codage de la structure et du style de votre site Web à partir du type de coloration de police et positionnement.
+
+le deuxième jour, j'ai continué la modélisation de mon site Web, le violet était ma couleur principale pour l'arrière-plan et le texte, j'ai également recherché 
+la ressource que j'ai utilisée sur mon site Web, comme l'image d'arrière-plan et le logo,
+
+après avoir terminé le modèle, je commence à créer le document html, pour moi, je commence par la version de bureau.
+
+Après cela, je commence à styliser la page Web, du logo au champ que les utilisateurs écriront.
+
+dans mon modèle, il y a une animation donc j'ai recherché des propriétés pour terminer mes projets
